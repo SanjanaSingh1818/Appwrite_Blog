@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 
 To start the development server, run:
 
-npm run dev
+   npm run dev
 
 
 This will start the frontend server. Visit `http://localhost:3000` to view the app in your browser.
